@@ -43,12 +43,15 @@ Each vulnerability type corresponds to a directory, named to clearly describe th
 
 ## Project Update Plan
 I will continue to update this repository with new write-ups regularly. If you are interested in a particular challenge that is not yet documented, feel free to leave a comment, and I will prioritize completing the write-up for that challenge.
+
 ## Usage Instructions
 - Reading Write-Ups: You can directly browse the Markdown files on GitHub, or clone the repository to your local machine and use a Markdown viewer to read them.
 - Discussion: If you have any questions about a challenge's solution or have alternative methods, feel free to leave comments under the corresponding Markdown file. I will respond as soon as possible.
 - Contributing Write-Ups: If you have also completed some PortSwigger challenges and would like to share your write-ups, feel free to submit a Pull Request. I will review and merge them into the repository.
+- 
 ## Contact Information
 If you have any questions or suggestions, you can reach me via the following methods:
+
 Email: Howell-Bear@outlook.com
 
 Thank you for your interest and support. I hope this repository will be helpful in your journey of learning Web security!
